@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Dimas+Alexander+SA)](https://git.io/typing-svg)    
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Dimas+Alexander+SA;Glad+to+meet+you+😁)](https://git.io/typing-svg)    
 
 # 💫 About Me:
 I'm currently studying Web Development :)
