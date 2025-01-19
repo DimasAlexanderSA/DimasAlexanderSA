@@ -1,5 +1,10 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Dimas+Alexander+SA;Glad+to+meet+you+😁)](https://git.io/typing-svg)   
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Dimas+Alexander+SA;Glad+to+meet+you+😁)](https://git.io/typing-svg) 
+
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="500">
+<br/>
+</h1>
 
 # 💫 About Me:
 I'm currently learning Web Development
