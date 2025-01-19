@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Dimas+Alexander+SA;Glad+to+I'm+currently+learning+Web+Development)](https://git.io/typing-svg)    
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Dimas+Alexander+SA;I'm+currently+learning+Web+Development)](https://git.io/typing-svg)    
 
 
 # 💻 Tech Stack:
